@@ -1,0 +1,5 @@
+outfile = open("test","w")
+outfile.write("line 1\n")
+outfile.write("line 2\n")
+outfile.write("line 3\n")
+outfile.close()

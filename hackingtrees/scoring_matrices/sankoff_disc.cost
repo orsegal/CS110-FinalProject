@@ -1,0 +1,11 @@
+#
+# This matrix was created by Todd Lowe   00/00/00
+#
+# Uses ambiguous nucleotide codes, probabilities rounded to
+#  nearest integer
+#
+# Lowest score =  0, Highest score = 1
+#
+    0   1
+0   0   1
+1   1   0
